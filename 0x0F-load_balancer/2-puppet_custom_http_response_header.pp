@@ -1,0 +1,1 @@
+# file that configures a brand new Ubuntu machine to the requirements asked in this task
