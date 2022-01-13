@@ -1,13 +1,11 @@
 ## PROJECT 0x0E. Web stack debugging #1
 
-        <h2>Concepts</h2>
-
+<h2>Concepts</h2>
   <div class="panel panel-default">
     <div class="panel-body">
       <p>
         <em>For this project, students are expected to look at these concepts:</em>
       </p>
-
       <ul>
           <li>
             <a href="/concepts/33">Network basics</a>
@@ -20,7 +18,7 @@
   </div>
 
 
-      <div class="well clean" id="project-description">
+<div class="well clean" id="project-description">
   <p><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/271/B4eeypV.jpg" alt="" style="" /></p>
 
 <h2>Requirements</h2>
